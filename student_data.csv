@@ -1,0 +1,17 @@
+Student,Marks,StudyHours,Attendance,AssignmentsCompleted,Result
+Ravi,85,3.5,88,9,Pass
+Sita,91,5.0,95,10,Pass
+Arjun,78,2.0,75,7,Pass
+Meena,86,4.0,90,9,Pass
+Kiran,88,4.5,92,10,Pass
+Priya,82,2.5,80,8,Pass
+Rahul,79,2.2,78,7,Pass
+Anu,45,1.0,62,4,Fail
+Vikram,38,1.5,68,3,Fail
+Divya,94,5.5,97,10,Pass
+Naveen,35,1.8,70,4,Fail
+Asha,89,4.2,93,9,Pass
+Rohan,52,1.5,65,5,Fail
+Pooja,76,3.0,82,8,Pass
+Manoj,41,1.2,60,3,Fail
+Kavya,87,4.5,91,9,Pass
